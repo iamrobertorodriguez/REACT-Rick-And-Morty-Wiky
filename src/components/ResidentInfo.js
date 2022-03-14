@@ -12,7 +12,7 @@ const ResidentInfo = ( { character } ) => {
           .then( ( res ) => {
             setCharacterInfo( res.data )
           } )
-    }, [  ] )
+    }, [ character ] )
 
     const aliveStatus = {
       backgroundColor: 'green',
@@ -33,7 +33,7 @@ const ResidentInfo = ( { character } ) => {
         <div className='resident-card'>
           <h2>{ characterInfo.name }</h2>
           <div className='image-wrapper'>
-            <img src={ characterInfo.image } alt="resident image" />
+            <img src={ characterInfo.image } alt="resident" />
           </div>
           <div className='info'>
             <p 
