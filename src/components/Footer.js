@@ -6,7 +6,8 @@ const Footer = () => {
             <p>API consumption example</p>
             <p>Endpoint: https://rickandmortyapi.com/api/location/</p>
             <p>Contact:</p>
-            <p>robertorodriguez@academlo.com</p>
+            <p>iamrobertorodriguez@proton.me</p>
+            <p>https://iamrobertorodriguez.netlify.app</p>
             <p>Copyright © 2022: Roberto Rodríguez, México 55070</p>
             <p>Hecho con ❤ en Academlo.</p>
         </div>
