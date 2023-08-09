@@ -7,7 +7,7 @@ const Footer = () => {
             <p>Contact:</p>
             <p>www.iammrobertorodriguez.com</p>
             <p>iamrobertorodriguez@proton.me</p>
-            <p>Copyright © 2022: Roberto Rodríguez, México 55070</p>
+            <p>Copyright © 2021: Roberto Rodríguez, México 55070</p>
             <p>Hecho con ❤</p>
         </div>
     );
